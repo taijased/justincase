@@ -1,0 +1,6 @@
+framework module Pods_JustInCase {
+  umbrella header "Pods-JustInCase-umbrella.h"
+
+  export *
+  module * { export * }
+}
